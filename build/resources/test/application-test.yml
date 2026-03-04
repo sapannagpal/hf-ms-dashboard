@@ -1,3 +1,0 @@
-jwt:
-  jwks-uri: http://localhost:8080/.well-known/jwks.json
-  issuer: https://api.healthplatform.com
