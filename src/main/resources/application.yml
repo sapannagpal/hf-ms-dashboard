@@ -21,6 +21,9 @@ management:
     health:
       show-details: always
 
+workout:
+  service-url: http://localhost:8083
+
 logging:
   level:
     com.habfitt.dashboard: INFO
